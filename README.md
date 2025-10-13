@@ -28,9 +28,7 @@ Interactive Design – enabling user-driven exploration
 
 🎯 Purpose
 
-This project is part of my data analytics portfolio, showcasing my ability to:
-
-Clean and transform raw data
+This project is part of a mini project with Masterschool, showcasing my ability to:
 
 Design user-friendly dashboards
 
