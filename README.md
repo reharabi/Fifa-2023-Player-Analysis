@@ -38,7 +38,7 @@ Communicate insights clearly and effectively
 
 Click the dashboard link above.
 
-Use filters to explore players by country, club, or position.
+Use filters to explore players by country.
 
 Hover over charts for detailed tooltips and comparisons
 
