@@ -1,6 +1,6 @@
 ⚽ FIFA Dashboard – Tableau Mini Project
 
-Welcome to my Tableau mini project! This interactive dashboard explores key insights from FIFA player data, offering a dynamic view into player performance, attributes, and trends across clubs and national teams.
+Welcome to my Tableau mini project, developed as part of my Masterschool training. This interactive dashboard explores key insights from FIFA player data, offering a dynamic view into player performance, attributes, and trends across clubs and national teams
 
 📊 Project Overview
 
