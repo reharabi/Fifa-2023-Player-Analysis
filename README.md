@@ -16,7 +16,7 @@ Attribute Analysis: Compare technical, physical, and mental attributes across se
 
 Top Performers: Highlight standout players based on overall ratings and key metrics.
 
-Interactive Filters: Drill down into specific teams or countries to explore player distributions.
+Interactive Filters: Drill down into specific countries to explore player distributions.
 
 🛠️ Tools & Skills Used
 
